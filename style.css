@@ -1,0 +1,43 @@
+i {
+    font-size: 30px;
+    width: 10%;
+    color: rgb(0, 225, 255);
+}
+
+a {
+    text-decoration: none;
+}
+
+.bi-laptop {
+    color: rgb(247, 125, 44);
+}
+
+.bi-arrow-up-right-square, .bi-github {
+    color: rgb(117, 161, 243);
+}
+
+.skills-items {
+    text-align: center;
+    justify-content: center;
+}
+
+.skills-items h3 {
+    margin: 10px;
+    border: solid rgba(241, 88, 88, 0.651);
+    padding: 10px;
+    background-color: rgba(241, 88, 88, 0.651);
+}
+
+
+.help {
+    border: solid;
+    
+}
+
+.bi-whatsapp {
+    color: black;
+}
+
+h6 {
+    margin-top: 20px;
+}
